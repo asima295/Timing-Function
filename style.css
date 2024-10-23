@@ -1,0 +1,40 @@
+.c1c1{
+    width: 200px;
+    height: 300px;
+}
+.c1c2{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+.c1c3{
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+}
+.c1c4{
+    width: 200px;
+    height: 300px;
+    object-fit: fill;
+}
+.c1c5{
+    width: 200px;
+    height: 300px;
+    object-fit: none;
+}
+.c1c6{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    object-position: 80% 100%;
+}
+.c1c7{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+.d1d1{
+   -webkit-mask-image: url(img.png);
+    mask-image: url(img.png);
+    mask-repeat: no-repeat;
+}
